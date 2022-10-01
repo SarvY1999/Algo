@@ -16,6 +16,6 @@ function compareTriplets(a, b) {
     scoreboard.push(score2);
     return scoreboard;
 };
-let a = [17, 28, 30];
-let b = [99, 16, 8];
+// let a = [17, 28, 30];
+// let b = [99, 16, 8];
 console.log(compareTriplets(a, b));
